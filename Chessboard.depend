@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567331763 source:d:\huan\chessboard\main.cpp
+	<iostream>
+	<stdio.h>
+
